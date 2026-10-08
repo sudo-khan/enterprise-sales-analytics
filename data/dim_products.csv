@@ -1,0 +1,6 @@
+product_id,product_name,product_category,unit_cost,base_price
+101,Cloud Security Suite,Security,450.0,1200.0
+102,Analytics Enterprise Engine,Analytics,300.0,950.0
+103,API Gateway Pro,Infrastructure,150.0,450.0
+104,Workflow Automation Hub,Productivity,200.0,600.0
+105,Customer Data Platform,Analytics,500.0,1500.0
